@@ -28,8 +28,8 @@ enum LoggerLevel
 ```
 
 ## Reference 
-[1] insightface:<https://github.com/deepinsight/insightface>  
-[2] mxnet c++ inference example:<https://mxnet.apache.org/versions/1.6/api/cpp/docs/tutorials/cpp_inference.html>  
-[3] extract feature from pretrained model by mxnet c++ api:<https://blog.csdn.net/muyouhang/article/details/85059352>  
-[4] build opencv from source in ubtunu16.04:<https://www.learnopencv.com/install-opencv-4-on-ubuntu-16-04/>  
-[5] dockerfile source:<https://hub.docker.com/r/dymat/opencv/dockerfile>  
+[1] insightface: <https://github.com/deepinsight/insightface>  
+[2] mxnet c++ inference example: <https://mxnet.apache.org/versions/1.6/api/cpp/docs/tutorials/cpp_inference.html>  
+[3] extract feature from pretrained model by mxnet c++ api: <https://blog.csdn.net/muyouhang/article/details/85059352>  
+[4] build opencv from source in ubtunu16.04: <https://www.learnopencv.com/install-opencv-4-on-ubuntu-16-04/>  
+[5] dockerfile source: <https://hub.docker.com/r/dymat/opencv/dockerfile>
