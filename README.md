@@ -3,7 +3,7 @@
 ## How to use
 download the required 3rdparty dynamic lib folder from
 [link](https://pan.baidu.com/s/1-eprnH5eic7uuTZ2qRR6jg), extraction
-code-d3hh put it in project's root path, run `docker build -t
+code-**d3hh** put it in project's root path, run `docker build -t
 '$IMAGENAME:TAG' .` for building opencv3.4, python2.7, gcc and cmake etc
 environment and then run `bash ./run.sh` will create a shared lib -
 **./build/libexport_gender_age.so** and run python demo - **predict.py**
