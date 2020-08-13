@@ -1,4 +1,4 @@
-# An insightface gender age model dynamic lib (Python callable)
+# insightface gender age model dynamic lib (Python callable)
 
 ## How to use
 download the required 3rdparty dynamic lib folder from
